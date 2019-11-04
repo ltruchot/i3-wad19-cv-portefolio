@@ -1,0 +1,30 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+.conteneur {
+  width: 50%;
+  margin: auto;
+  position: relative;
+}
+.contenu {
+  /*   position: absolute;
+  bottom: 10px;
+  right: 10px; */
+}
+.grosse-div {
+  height: 200px;
+  width: 200px;
+  background-color: lightgreen;
+}
+.fixee {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  //transform: translate(-50%, -50%);
+}
+.collant {
+  top: 0;
+  position: sticky;
+}
