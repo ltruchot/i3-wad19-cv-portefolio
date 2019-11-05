@@ -1,0 +1,39 @@
+@import "./variables";
+@import "./titi";
+h1 
+  font-size: calc(80px / 2);
+
+
+body {
+  color: beige;
+}
+
+div.toto 
+  span {
+    color: $primary-color;
+  }
+  p {
+    color: green;
+    .titi {
+      font-size: calc(80px / 2);
+    }
+  }
+}
+
+nav.coucou {
+  ul {
+    li {
+      a {
+        color: blue;
+        &:hover {
+          color: red;
+        }
+        &:nth-child {
+          color: green;
+        }
+        &.toto {
+        }
+      }
+    }
+  }
+}

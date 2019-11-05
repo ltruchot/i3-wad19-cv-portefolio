@@ -14,7 +14,7 @@
   "author": "Loïc TRUCHOT",
   "license": "CC-BY-NC-4.0",
   "devDependencies": {
-    "@babel/core": "7.6.0",
+    "@babel/core": "7.6.4",
     "@babel/preset-env": "7.6.0",
     "babel-loader": "8.0.6",
     "babel-plugin-syntax-dynamic-import": "6.18.0",

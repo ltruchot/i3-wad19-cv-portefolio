@@ -1,0 +1,5 @@
+- email auto depuis form de contact
+- vrai cahier de charges de sites en prod
+- debug ?
+- BEM
+- conteneur / contenu pour le css
